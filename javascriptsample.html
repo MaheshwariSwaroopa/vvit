@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body id="root">
+    <script src="main.js"></script>
+</body>
+</html>
+<script>
+    var h1=document.createElement("h1");
+    h1.textContent="Hello World";
+    h1.style.color="#f8b195";
+    h1.style.background="#c06c84"
+    h1.style.fontSize="100px"
+    var body=document.getElementsByTagName("body");
+
+    body[0].appendChild(h1);
+
+    var heading=document.createElement("h2");
+    heading.textContent="Resume";
+
+
+    var body=document.getElementsByTagName("body");
+    body[0].appendChild(heading);
+
+</script>

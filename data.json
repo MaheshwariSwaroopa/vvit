@@ -1,0 +1,22 @@
+{
+    "basics":{
+        "Name":"ANANYA",
+        "Role":"Senior",
+        "Email":"ananyaavula@gmail.com",
+        "Mobile":"+91 9640282137",
+        "Education":[
+            {
+                "Degree":"SSC",
+                "Percentage":"93%"
+            },
+            {
+                "Degree":"INTER",
+                "Percentage":"93%"
+            },
+            {
+                "Degree":"B-Tech",
+                "Percentage":"75%"
+            }
+        ]
+    }
+}
